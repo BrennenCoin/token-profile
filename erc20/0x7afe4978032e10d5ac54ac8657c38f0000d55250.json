@@ -1,0 +1,20 @@
+{
+    "symbol": "BRN",
+    "address": "0x7afe4978032e10d5ac54ac8657c38f0000d55250",
+    "overview": {
+        "en": "Brennen ( BRN ) is a coin created to deal with the problem of oversupply in the cryptocurency market,Brennen Will Be Burned At The End Of The Month With The Amount Of Transactions, .",
+        "zh": "Brennen是一个硬币，用于解决加密货币市场供过于求的问题，Brennan将在交易金额的月底被烧毁, ."，},
+    "email": "support@Brennen.com",
+    "website": "https://www.brennen.com/",
+    "state": "NORMAL",
+    "published_on": "2019-26-07",
+    "initial_price": {
+        "USD": "$0.03 USD"
+    },
+    "links": {
+        "blog": "https://brennencoin.com/",
+        "twitter": "https://twitter.com/brennencoin",
+        "github": "https://github.com/brennencoin/",
+        "medium": "https://blog.trusttoken.com/@brennencoin"
+    }
+}
